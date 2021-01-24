@@ -1,0 +1,120 @@
+#title {
+    background-color :#f58634;
+    text-align: center;
+}
+
+
+/* nav section */
+
+.navbar {
+    padding:1% 5%;
+    
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 500;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  
+  
+}
+
+span {
+    color: #1a508b;
+    
+    
+}
+
+.nav-ind {
+ color:#f6d887;
+ font-size: 2rem;      
+}
+
+.nav-item {
+font-size : 1.5rem;
+padding-right:25px;
+color: #c70039;
+
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    line-height: 2;
+    color: #f6d887;
+    padding:5%;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #1a508b;
+    padding-top: 2%;
+}
+
+.intro {
+    font-family: 'Lobster', cursive; 
+    font-size: 2.5rem;
+    line-height: 1.5;  
+}
+
+.motto {
+    font-family: 'Lobster', cursive;  
+    font-size: 2.5rem; 
+    padding-top: 3%;
+}
+
+.aboutme-img {
+    width: 90%;
+    padding-top: 25px;
+}
+
+
+.main-picture {
+  width: 60%;  
+  border-radius: 100%;
+  padding: 5%;
+ 
+  
+}
+
+#aboutme {
+
+    background-color: #f8dc81;
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 1% 7%;;
+
+}
+
+/* gallery */
+
+#gallery {
+    text-align: center;
+    background-color: #f58634;
+}
+
+.art-img {
+    width :550px;
+    height: 600px;
+    margin: 50px;
+
+}
+
+
+/* footer */
+
+#footer {
+    text-align:center;
+    background-color: #f8dc81;
+
+}
+
+.fab-icon {
+    margin: 0 1% 2%;
+  font-size: 2rem;
+  
+}
+
